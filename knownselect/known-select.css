@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+.select-autocomplete {
+	padding: 0 0 0.45em 0;
+}
+
+.select-autocomplete button {
+	background: #0092CB;
+	border: none;
+	border-radius: 1.125em;
+	color: #FFF;
+	cursor: pointer;
+	font-size: 16px;
+	font-size: 1rem;
+	letter-spacing: 0.01em;
+	line-height: 1.8em;
+	margin: 0.45em 0 0 0;
+	padding: 0.225em 0.9em;
+}
+
+.select-autocomplete button:hover {
+	background-color: #00a4e0;
+}
+
+.select-autocomplete button:active {
+	background-color: #00739E;
+}
+
+.select-autocomplete button + button {
+	margin-left: 0.45em;
+}
+
