@@ -3,7 +3,7 @@
 	
 	- Use this only if the user absolutely knows what they're looking for in a select element
 	
-	2018-10-01 Jake Nicholson (www.eskdale.net)
+	2018-10-01 Jake Nicholson (github.com/shakyjake)
 	
 	This is free and unencumbered software released into the public domain.
 
